@@ -1,0 +1,55 @@
+Date: 7/11/2023
+Time: 16:9
+Phone Number: +5514371287
+Message: QR confirmado
+--------------------
+Date: 7/11/2023
+Time: 16:53
+Phone Number: +5514371287
+Message: QR confirmado
+--------------------
+Date: 7/11/2023
+Time: 17:11
+Phone Number: +5514371287
+Message: QR confirmado
+--------------------
+Date: 7/11/2023
+Time: 17:16
+Phone Number: +5514371287
+Message: n_de_registro:1,n_de_cuenta:1926648, Nombre:miguel, celular:5514371287, Sexo:Masculino
+--------------------
+Date: 7/11/2023
+Time: 17:20
+Phone Number: +5514371287
+Message: n_de_registro:1,n_de_cuenta:1926648, Nombre:miguel, celular:5514371287, Sexo:Masculino (17:20)
+--------------------
+Date: 7/11/2023
+Time: 17:31
+Phone Number: +5625784711
+Message: n_de_registro:3,n_de_cuenta:1972183, Nombre:daniel ventura cruz, celular:5625784711, Sexo:Masculino (17:31)
+--------------------
+Date: 7/11/2023
+Time: 17:34
+Phone Number: +5625784711
+Message: n_de_registro:3,n_de_cuenta:1972183, Nombre:daniel ventura cruz, celular:5625784711, Sexo:Masculino (17:34)
+--------------------
+Date: 7/11/2023
+Time: 19:37
+Phone Number: +5581416489
+Message: n_de_registro:4,n_de_cuenta:1926510, Nombre:arturo cruz rios, celular:5581416489, Sexo:Masculino (19:37)
+--------------------
+Date: 8/11/2023
+Time: 23:31
+Phone Number: +5581416489
+Message: n_de_registro:1,n_de_cuenta:1926510, Nombre:Cruz Rios Omar Arturo, celular:5581416489, Sexo:Masculino (23:31)
+--------------------
+Date: 8/11/2023
+Time: 23:35
+Phone Number: +5581416489
+Message: n_de_registro:1,n_de_cuenta:1926510, Nombre:Cruz Rios Omar Arturo, celular:5581416489, Sexo:Masculino (23:35)
+--------------------
+Date: 9/11/2023
+Time: 0:23
+Phone Number: +5581416489
+Message: n_de_registro:1,n_de_cuenta:1926510, Nombre:Cruz Rios Omar Arturo, celular:5581416489, Sexo:Masculino (00:23)
+--------------------
